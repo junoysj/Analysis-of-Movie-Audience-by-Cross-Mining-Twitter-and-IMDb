@@ -1,7 +1,7 @@
 ## Demographic-Analysis-of-Moviegoers-in-the-Twitter-Sphere
 
 ### Project Abstract
-Understanding movie audience is important for movie production and marketing campaigns. Big data from open sources provides us with a massive amount of data about moviegoers and facilitates new approaches to deciphering the data. In this paper, we analyze the audience of five primary genres, namely action, animation, comedy, drama and science fiction movies, based on the followers information of the official movie accounts from Twitter. By using a face detection software tool Face++ to analyze the Twitter profile images, we extract rich demographic information about movie followers in terms of age, gender and race. The results of text analysis on profile self-descriptions further reveal their identities and passions.
+Understanding movie audience is important for movie production and marketing campaigns. Big data from open sources provides us with a massive amount of data about moviegoers and facilitates new approaches to deciphering the data. In this work, we analyze the audience of five primary genres, namely action, animation, comedy, drama and science fiction movies, based on the followers information of the official movie accounts from Twitter. By using a face detection software tool Face++ to analyze the Twitter profile images, we extract rich demographic information about movie followers in terms of age, gender and race. The results of text analysis on profile self-descriptions further reveal their identities and passions.
 
 ### Codes
 Here are all codes for our project.
